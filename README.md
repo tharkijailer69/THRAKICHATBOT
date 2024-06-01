@@ -7,7 +7,7 @@
 
 </h2>
 <p align="center">
-  <img src="https://graph.org/file/3ccb86d7d62e8ee0a2e8b.jpg">
+  <img src="https://telegra.ph/file/f5a9999ba62c18ba17ac6.jpg">
 </p>
 
  <img src="https://readme-typing-svg.herokuapp.com?color=FF00FF&width=420&lines=🐙+🄳🄴🄿🄻🄾🅈+🄾🄽+🄷🄴🅁🄾🄺🅄+🄽🄾🅆+🐙">
@@ -16,7 +16,7 @@
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/tinaarobot/CHATBOT"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-008080?style=for-the-badge&logo=heroku" width="180" height="40"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/tharkijailer69/THRAKICHATBOT"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-008080?style=for-the-badge&logo=heroku" width="180" height="40"/></a></p>
 
 
  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&width=420&lines=🐉+🄹🄾🄸🄽+🄾🅄🅁+🅂🅄🄿🄿🄾🅁🅃+🄶🅁🄾🅄🄿+🐉">
