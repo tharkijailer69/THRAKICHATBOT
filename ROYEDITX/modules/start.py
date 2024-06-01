@@ -38,7 +38,7 @@ async def start(_, m: Message):
         await umm.delete()
         await m.reply_photo(
             photo=random.choice(IMG),
-            caption=f"""❖ ʜᴇʏ ʙᴀʙʏ, ɴɪᴄᴇ ᴛᴏ ᴍᴇᴇᴛ ʏᴏᴜ ♥︎\n\n⬤ ɪ ᴀᴍ {BOT_NAME}, ᴀɪ ʙᴀsᴇ ᴄʜᴀᴛʙᴏᴛ.\n⬤ ɪ ᴄᴀɴ ʜᴇʟᴘ ʏᴏᴜ ғᴏʀ ᴀᴄᴛɪᴠᴇ ʏᴏᴜʀ ɢʀᴏᴜᴘ.\n\n❖ ᴛᴀᴘ ᴏɴ ʜᴇʟᴘ ʙᴜᴛᴛᴏɴ ᴛᴏ sᴇᴇ ᴀʟʟ ᴍʏ ᴄᴏᴍᴍᴀɴᴅs.""",
+            caption=f"""❖ ʜᴇʏ ᴄʜᴜᴛɪʏᴀ ʀᴀɴᴅɪʙᴀᴀᴢ, ɴɪᴄᴇ ᴛᴏ ᴍᴇᴇᴛ ʏᴏᴜ ♥︎\n\n⬤ ɪ ᴀᴍ {BOT_NAME}, ᴀɪ ʙᴀsᴇ ᴛʜᴀʀᴋɪ ᴄʜᴀᴛʙᴏᴛ.\n⬤ ᴍᴀɪɴ ᴛᴇʀᴀ ᴅᴇᴀᴅ ɢʀᴏᴜᴘ ᴋᴏ ᴀᴄᴛɪᴠᴇ  ɢʀᴏᴜᴘ ʙɴᴀ sᴋᴛɪ ʜᴜ.\n\n❖ ᴛᴀᴘ ᴏɴ ʜᴇʟᴘ ʙᴜᴛᴛᴏɴ ᴛᴏ sᴇᴇ ᴀʟʟ ᴍʏ ᴛʜᴀʀᴋɪ ᴄᴏᴍᴍᴀɴᴅs.""",
             reply_markup=InlineKeyboardMarkup(DEV_OP),
         )
  ##############
@@ -56,7 +56,7 @@ async def help(client: LOCOPILOT, m: Message):
 @dev.on_message(filters.command("repo") & ~filters.bot)
 async def repo(_, m: Message):
     await m.reply_text(
-        text= f"""❖ ʜᴇʏ ʙᴀʙʏ, ɴɪᴄᴇ ᴛᴏ ᴍᴇᴇᴛ ʏᴏᴜ ♥︎\n\n⬤ ɪ ᴀᴍ {BOT_NAME},  ᴀɪ ʙᴀsᴇ ᴄʜᴀᴛʙᴏᴛ.\n\n❖ ɪғ ʏᴏᴜ ᴡᴀɴᴛ {BOT_NAME} ʙᴏᴛ ʀᴇᴘᴏ, ᴛʜᴇɴ ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʀᴇᴘᴏ ʙᴜᴛᴛᴏɴ ᴛᴏ ɢᴇᴛ ᴍʏ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ.""",
+        text= f"""❖ ʜᴇʏ ᴄʜᴜᴛɪʏᴀ ʀᴀɴᴅɪʙᴀᴀᴢ, ɴɪᴄᴇ ᴛᴏ ᴍᴇᴇᴛ ʏᴏᴜ ♥︎\n\n⬤ ɪ ᴀᴍ {BOT_NAME},  ᴀɪ ʙᴀsᴇ ᴛʜᴀʀᴋɪ ᴄʜᴀᴛʙᴏᴛ.\n\n❖ ɪғ ʏᴏᴜ ᴡᴀɴᴛ {BOT_NAME} ʙᴏᴛ ʀᴇᴘᴏ, ᴛʜᴇɴ ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʀᴇᴘᴏ ʙᴜᴛᴛᴏɴ ᴛᴏ ɢᴇᴛ ᴍʏ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ.""",
         reply_markup=InlineKeyboardMarkup(CLOSE_BTN),
         disable_web_page_preview=True,
     )
