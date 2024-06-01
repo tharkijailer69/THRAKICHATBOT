@@ -5,28 +5,28 @@ from dotenv import load_dotenv
 load_dotenv()
 
 #### ❖ ──────⊱◈◈◈⊰────── ❖
-API_ID = int(getenv("API_ID", "6435225"))
+API_ID = int(getenv("API_ID", "21330285"))
 
 #### ❖ ──────⊱◈◈◈⊰────── ❖
-API_HASH = getenv("API_HASH", "4e984ea35f854762dcde906dce426c2d")
+API_HASH = getenv("API_HASH", "c522988da7d6dc12355376538db4f563")
 
 #### ❖ ──────⊱◈◈◈⊰────── ❖
 BOT_TOKEN = getenv("BOT_TOKEN", None)
 
 #### ❖ ──────⊱◈◈◈⊰────── ❖
-OWNER_ID = int(getenv("OWNER_ID", "6922271843"))
+OWNER_ID = int(getenv("OWNER_ID", "6972002711"))
 
 #### ❖ ──────⊱◈◈◈⊰────── ❖
-MONGO_URL = getenv("MONGO_URL", "mongodb+srv://Bikash:Bikash@bikash.yl2nhcy.mongodb.net/?retryWrites=true&w=majority")
+MONGO_URL = getenv("MONGO_URL", "mongodb+srv://tharki69:tharki69@cluster0.zqc9ffb.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 
 #### ❖ ──────⊱◈◈◈⊰────── ❖
-SUPPORT_GRP = getenv("SUPPORT_GRP", "THE_FRIENDZ")
+SUPPORT_GRP = getenv("SUPPORT_GRP", "https://t.me/+1vbJzVV6-w0yMTY1")
 
 #### ❖ ──────⊱◈◈◈⊰────── ❖
-UPDATE_CHNL = getenv("UPDATE_CHNL", "ROY_EDITX")
+UPDATE_CHNL = getenv("UPDATE_CHNL", "https://t.me/+uBzhlRo9fJtmMjZl")
 
 #### ❖ ──────⊱◈◈◈⊰────── ❖
-OWNER_USERNAME = getenv("OWNER_USERNAME", "HLO_PAPA")
+OWNER_USERNAME = getenv("OWNER_USERNAME", "TERE_UMAR_SE_JYADA_MERE_KRNAME_H")
 
 #### ❖ ──────⊱◈◈◈⊰────── ❖
 BOT_USERNAME = getenv("BOT_USERNAME", None)
@@ -58,31 +58,31 @@ STICKER = [
 #### ❖ ──────⊱◈◈◈⊰────── ❖
 
 IMG = [
-"https://graph.org/file/eaa3a2602e43844a488a5.jpg",
-"https://graph.org/file/b129e98b6e5c4db81c15f.jpg",
-"https://graph.org/file/3ccb86d7d62e8ee0a2e8b.jpg",
-"https://graph.org/file/df11d8257613418142063.jpg",
-"https://graph.org/file/9e23720fedc47259b6195.jpg",
-"https://graph.org/file/826485f2d7db6f09db8ed.jpg",
-"https://graph.org/file/ff3ad786da825b5205691.jpg",
-"https://graph.org/file/52713c9fe9253ae668f13.jpg",
-"https://graph.org/file/8f8516c86677a8c91bfb1.jpg",
-"https://graph.org/file/6603c3740378d3f7187da.jpg",
-"https://graph.org/file/66cb6ec40eea5c4670118.jpg",
-"https://graph.org/file/2e3cf4327b169b981055e.jpg",
+"https://telegra.ph/file/f5a9999ba62c18ba17ac6.jpg",
+"https://telegra.ph/file/f5a9999ba62c18ba17ac6.jpg",
+"https://telegra.ph/file/f5a9999ba62c18ba17ac6.jpg",
+"https://telegra.ph/file/f5a9999ba62c18ba17ac6.jpg",
+"https://telegra.ph/file/f5a9999ba62c18ba17ac6.jpg",
+"https://telegra.ph/file/f5a9999ba62c18ba17ac6.jpg",
+"https://telegra.ph/file/f5a9999ba62c18ba17ac6.jpg",
+"https://telegra.ph/file/f5a9999ba62c18ba17ac6.jpg",
+"https://telegra.ph/file/f5a9999ba62c18ba17ac6.jpg",
+"https://telegra.ph/file/f5a9999ba62c18ba17ac6.jpg",
+"https://telegra.ph/file/f5a9999ba62c18ba17ac6.jpg",
+"https://telegra.ph/file/f5a9999ba62c18ba17ac6.jpg",
 ]
 
 #### ❖ ──────⊱◈◈◈⊰────── ❖
 
 EMOJIOS = [
-    "❤️",
-    "🧡",
-    "💛",
-    "💚",
-    "💙",
-    "💜",
-    "🤎",
-    "🖤",
-    "🤍",
-    "♥️",
+    "🥵",
+    "🥵",
+    "🥵",
+    "🥵",
+    "🥵",
+    "🥶",
+    "🥶",
+    "🥶",
+    "🥶",
+    "🥶",
 ]
